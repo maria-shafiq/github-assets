@@ -8,6 +8,6 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - Test Installation And First Steps 7a
-  - Test Installation And First Steps 7b
+  - Test Installation And First Steps Assets1
+  - Test Installation And First Steps Assets2
 title: Test Lp Upload Assets
